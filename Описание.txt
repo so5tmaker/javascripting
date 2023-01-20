@@ -1,0 +1,23 @@
+npm install -g javascripting
+
+ ## Справка  
+   
+  javascripting ..................... Вызов меню для выбора задачи.  
+   
+  javascripting list ................ Показать список доступных задач.  
+   
+  javascripting select НАЗВАНИЕ ..... Выбор задачи.  
+   
+  javascripting current ............. Показать название текущей задачи.  
+   
+  javascripting print ............... Показать описание текущей задачи.  
+   
+  javascripting next ................ Показать описание следующей задачи.  
+   
+  javascripting reset ............... Сбросить результаты выполненых задач.  
+   
+  javascripting run program.js ...... Запустить переданное решение.  
+   
+  javascripting verify program.js ... Проверить переданное решение.  
+   
+  javascripting -l <язык> ........... Изменить язык.  
